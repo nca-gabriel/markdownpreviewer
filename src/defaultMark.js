@@ -19,7 +19,7 @@ function hello() {
 - List item 1
 - List item 2
 
-[FreeCodeCamp](https://www.freecodecamp.org)
+[NCG](https://github.com/nca-gabriel)
 
 ![Image](https://picsum.photos/200)
 `;
