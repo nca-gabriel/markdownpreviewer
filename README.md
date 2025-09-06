@@ -12,7 +12,8 @@
   <a href="#features">Features</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a>
+  <a href="#usage">Usage</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 <img src="./public/preview.png" alt="MarkdownPreviewer Screenshot" align="center" width="auto" height="auto">
@@ -61,3 +62,8 @@ Start the development server:
 ```bash
 npm run dev
 ```
+
+## Credits 
+[Search icon](https://www.flaticon.com/free-icon/search_607554) created by [Vectors Market](https://www.flaticon.com/authors/vectors-market) — [Flaticon](https://www.flaticon.com/)
+
+
